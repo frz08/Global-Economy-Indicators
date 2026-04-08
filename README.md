@@ -43,7 +43,7 @@ global-economic-indicators/
 
 ## 📄 Presentation
 
-View the full project presentation [here](./presentation.pdf)
+View the full project presentation [here](./Global Economy Indicators.pdf)
 
 ---
 
