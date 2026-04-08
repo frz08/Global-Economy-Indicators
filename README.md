@@ -1,4 +1,3 @@
-# Global-Economy-Indicators
 # 🌍 Global Economic Indicators
 
 A comprehensive data analysis project exploring global economic trends using descriptive statistics, regression analytics, and data visualizations.
@@ -43,7 +42,7 @@ global-economic-indicators/
 
 ## 📄 Presentation
 
-View the full project presentation [here](./Global Economy Indicators.pdf)
+View the full project presentation [here](./Global_Economy_Indicators.pdf)
 
 ---
 
